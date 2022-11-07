@@ -11,7 +11,7 @@ public class Exercise02 : MonoBehaviour
     void Start()
     {
         //Display message
-        Debug.Log($"Hello, {name}! Welcome to {city}");
+        Debug.Log($"Hello, {name} ! Welcome to {city}");
     }
 
 }

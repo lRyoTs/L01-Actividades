@@ -11,7 +11,7 @@ public class Exercise03 : MonoBehaviour
     void Start()
     {
         //Display message
-        Debug.Log($"Hello, {name}! You are {age} years old");
+        Debug.Log($"Hello, {name} ! You are {age} years old");
     }
 
 }

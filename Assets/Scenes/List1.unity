@@ -301,7 +301,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c86a8ce198a1f9a43bf4791720066da4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  day: 6
+  day: 7
 --- !u!114 &1137255059
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -314,7 +314,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b76d795b8b5365488626519b7756f4f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  num1: 3
+  num1: -3
   num2: 2
 --- !u!114 &1137255060
 MonoBehaviour:
@@ -329,7 +329,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentYear: 2022
-  birthYear: 1880
+  birthYear: 1980
 --- !u!114 &1137255061
 MonoBehaviour:
   m_ObjectHideFlags: 0
