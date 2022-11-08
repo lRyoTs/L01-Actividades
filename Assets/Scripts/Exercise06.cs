@@ -10,7 +10,7 @@ public class Exercise06 : MonoBehaviour
     void Start()
     {
         //Choose if the day is from the weekend or not
-        if ((day == 1) || (day == 2) || (day == 3) || (day == 4) || (day == 5)) 
+        if ((day >= 1) && (day <= 5)) 
         {
             Debug.Log($"Day {day} doesn't belong to the weekend");
         }
